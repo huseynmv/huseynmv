@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python/Django**
 
-- 👨‍💻 All of my projects are available at [huseynmv.herokuapp.com](huseynmv.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://huseynmv.herokuapp.com](https://huseynmv.herokuapp.com)
 
 - 📝 I regularly write articles on [https://medium.com/@huseynmv](https://medium.com/@huseynmv)
 
