@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/huseynmv)
+
 <h1 align="center">Hi 👋, I'm Huseyn Mammadov</h1>
 <h3 align="center">I am Back-end developer from Azerbaijan</h3>
 
@@ -21,3 +23,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h2> My GitHub Stats </h2>
+
+![GitHub metrics](https://metrics.lecoq.io/huseynmv)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huseynmv&show_icons=true&count_private=true) 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseynmv)](https://github.com/huseynmv/github-readme-stats)
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=huseynmv)
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=huseynmv)  
