@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Huseyn Mammadov</h1>
 <h3 align="center">I am Back-end developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [Django development](https://github.com/huseynmv/PragmatechPythonProject)
+- 🔭 I’m currently working on [Mobile Development with React Native](https://github.com/huseynmv/PragmatechPythonProject)
 
-- 🌱 I’m currently learning **Python/Django**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [huseynmv.herokuapp.com](https://huseynmv.herokuapp.com)
 
